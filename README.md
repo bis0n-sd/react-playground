@@ -14,4 +14,4 @@ Ensuite il faudra l'injecter dans le DOM grâce à [ReactDOM](https://fr.reactjs
 
 ---
 
-Pour passer à la suite vous devez commit vos changements puis checkout sur la branche exo2.
+Pour passer à la suite vous devez commit vos changements puis checkout sur la branche exo2
